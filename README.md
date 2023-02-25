@@ -1,5 +1,5 @@
 <H1 align="center">Sistema de cadastro de jogos</H1>
- > Status do projeto: Em desenvolvimento
+ >Status do projeto: Em desenvolvimento
 
 Índice da página:
 [Comecinho] (#Começo)
